@@ -1,2 +1,2 @@
 # simon-says-game
-this is my first JS project
+this is my first JS project.
